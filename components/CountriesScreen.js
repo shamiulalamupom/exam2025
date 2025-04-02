@@ -21,7 +21,7 @@ const CountriesScreen = () => {
     return (
       <View>
         <TouchableOpacity onPress={handleBack}>
-          <Icon name="keyboard-backspace" size={20} />
+          <Icon name="keyboard-backspace" size={35} />
         </TouchableOpacity>
         <View
           style={{ flex: 1, justifyContent: "center", alignItems: "center" }}
