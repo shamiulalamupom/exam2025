@@ -36,7 +36,7 @@ const CountriesScreen = () => {
           <Text style={{ fontSize: 15, marginTop: 10 }}>
             {`Population: ${selectedCountry.population}`}
           </Text>
-          <Text style={{ fontSize: 10, marginTop: 10 }}>
+          <Text style={{ fontSize: 13, marginTop: 10 }}>
             {selectedCountry.description}
           </Text>
         </View>
